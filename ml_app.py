@@ -16,7 +16,7 @@ from sklearn.ensemble import RandomForestRegressor
 import random
 from sklearn import metrics
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
-import seaborn as sns
+# import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 from sklearn.cluster import DBSCAN
